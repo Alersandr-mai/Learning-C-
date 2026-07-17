@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
+    аививпууж
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
